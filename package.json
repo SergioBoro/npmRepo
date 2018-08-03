@@ -1,0 +1,19 @@
+{
+  "name": "npmrepo",
+  "version": "2.0.0",
+  "description": "very first module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SergioBoro/npmRepo.git"
+  },
+  "author": "sergioboro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SergioBoro/npmRepo/issues"
+  },
+  "homepage": "https://github.com/SergioBoro/npmRepo#readme"
+}
